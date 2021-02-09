@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html> 
+  <head> <title> HW02 </title>
+  </head>
+  <body>
+	  <h1> Stuyvesant Computer Science Department </h1>
+	  <p> not a comprehensive list just my observations </p>
+	  <h3> Mr. Peter Brooks </h3>
+	  <p> <img src="IMG_1498.jpg" width="400" length="400"> </p>
+	  <h3> Mr. Samuel Konstantinovich </h3>
+	  <p> <img src="IMG_1456.jpg" width="400" length="400"> </p>
+	  <h3> Mr. David Holmes </h3>
+	  
+	  </html>
