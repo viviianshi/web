@@ -10,5 +10,5 @@
 	  <h3> Mr. Samuel Konstantinovich </h3>
 	  <p> <img src="IMG_1456.jpg" width="400" length="400"> </p>
 	  <h3> Mr. David Holmes </h3>
-	  
+	  </body>
 	  </html>
