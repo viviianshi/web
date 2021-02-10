@@ -1,6 +1,6 @@
 
 h1 {
-  color: orchid;
+  color: pink;
 }
 
 body {
@@ -8,12 +8,12 @@ body {
 }
 
 ol {
-  color: frenchpink;
+  color: pink;
   list-style-type; upper-roman;
 }
 
 p {
-  color: carnationpink;
-  border: 3px solid frenchpink
+  color: whte;
+  border: 3px solid pink
   font-family: arial;
 }
