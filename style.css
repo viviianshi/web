@@ -6,12 +6,12 @@ h1 {
 }
 
 ol {
-  color: white;
+  color: FF7CA4;
   list-style-type; upper-roman;
 }
 
 p {
-  color: white;
+  color: FEA4BF;
   border-style: solid;
   border-color: red;
   border-radius: 5px;
