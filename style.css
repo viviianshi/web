@@ -1,1 +1,16 @@
+ul {
+  color: white;
+  list-style-type: square;
+}
 
+ol {
+  color: white;
+  list-style-type; upper-roman;
+}
+
+p {
+  color: white;
+  border-style: solid;
+  border-color: red;
+  border-radius: 5px;
+  font-family: courier;
