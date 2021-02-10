@@ -1,6 +1,6 @@
 
 h1 {
-  color: pink;
+  color: orchid;
 }
 
 body {
@@ -8,14 +8,14 @@ body {
 }
 
 ol {
-  color: FF7CA4;
+  color: frenchpink;
   list-style-type; upper-roman;
 }
 
 p {
-  color: FEA4BF;
+  color: carnationpink;
   border-style: solid;
-  border-color: FF7CA4;
+  border-color: frenchpink;
   border-radius: 5px;
-  font-family: courier;
+  font-family: arial;
 
