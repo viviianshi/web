@@ -1,3 +1,4 @@
+<style>
 ul {
   color: white;
   list-style-type: square;
@@ -14,3 +15,4 @@ p {
   border-color: red;
   border-radius: 5px;
   font-family: courier;
+</style>
