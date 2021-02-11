@@ -1,10 +1,11 @@
 h1 {
   color: #E86CE7;
-  text-align: center;
+  text-font: bodoni;
 }
 
 h2 {
   color: #FF7CA4;
+  text-font: bodoni;
 }
 
 a:hover {
@@ -15,8 +16,13 @@ a:visited {
   color: #C2BBF0;
 }
 
+ol {
+  color: #FEA4BF;
+}
+
 h3 {
   color: #FEA4BF;
+  text-font: bodoni;
 }
 
 body {
@@ -29,5 +35,3 @@ p {
   border: 3px double #FEA4BF;
   font-family: arial;
 }
-
-
