@@ -15,10 +15,6 @@ a:visited {
   color: #C2BBF0;
 }
 
-ol {
-	color: #FEA4BF;
-}
-
 h3 {
   color: #FEA4BF;
 }
@@ -33,3 +29,5 @@ p {
   border: 3px double #FEA4BF;
   font-family: arial;
 }
+
+
