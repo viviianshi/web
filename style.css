@@ -1,15 +1,22 @@
-<style>
 h1 {
-  color: rgb(232,108,231);
+  color: #E86CE7;
   text-align: center;
 }
 
 h2 {
-  color: rgb(255,124,164);
+  color: #FF7CA4;
+}
+
+a:hover {
+  color: #FF69B4;
+}
+
+a:visited {
+	color: #FEA4BF;
 }
 
 h3 {
-  color: rgb(254,164,191);
+  color: #FEA4BF;
 }
 
 body {
@@ -18,8 +25,8 @@ body {
 
 p {
   color: white;
-  border: 3px solid rgb(232,108,231)
+  border: 3px double #FEA4BF;
   font-family: arial;
 }
 
-</style>
+
