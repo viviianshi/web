@@ -1,0 +1,25 @@
+<style>
+h1 {
+  color: rgb(232,108,231);
+  text-align: center;
+}
+
+h2 {
+  color: rgb(255,124,164);
+}
+
+h3 {
+  color: rgb(254,164,191);
+}
+
+body {
+  background-color: black;
+}
+
+p {
+  color: white;
+  border: 3px solid rgb(232,108,231)
+  font-family: arial;
+}
+
+</style>
