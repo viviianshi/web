@@ -15,14 +15,10 @@ body {
   background-color: black;
 }
 
-ol {
-  color: pink;
-  list-style-type; upper-roman;
-}
-
 p {
   color: white;
   border: 3px solid rgb(232, 108, 231)
   font-family: arial;
 }
+
 </style>
