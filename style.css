@@ -1,6 +1,14 @@
 <style>
 h1 {
-  color: 232, 108, 231;
+  color: rgb(232, 108, 231);
+}
+
+h2 {
+  color: rgb(255, 124, 164);
+}
+
+h3 {
+  color: rgb(254, 164, 191);
 }
 
 body {
@@ -13,8 +21,8 @@ ol {
 }
 
 p {
-  color: whte;
-  border: 3px solid pink
+  color: white;
+  border: 3px solid rgb(232, 108, 231)
   font-family: arial;
 }
 </style>
