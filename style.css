@@ -1,11 +1,11 @@
 <style>
 
 h1 {
-  color: rgb(255,124,164);
+  color: #E86CE7;
 }
 
 h2 {
-  color: rgb(255,124,164);
+  color: #FF7CA4;
 }
 
 a:hover {
@@ -13,7 +13,7 @@ a:hover {
 }
 
 h3 {
-  color: rgb(254,164,191);
+  color: #FEA4BF;
 }
 
 body {
@@ -23,6 +23,7 @@ body {
 p {
   color: white;
   font-family: arial;
+  border: 5px double #FEA4BF
 }
 
 </style>
