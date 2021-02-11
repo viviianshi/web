@@ -1,4 +1,3 @@
-
 h1 {
   color: #E86CE7;
   text-align: center;
@@ -9,12 +8,11 @@ h2 {
 }
 
 a:hover {
-
   color: #FF69B4;
 }
 
 a:visited {
-	color: #FEA4BF;
+  color: #C2BBF0;
 }
 
 h3 {
