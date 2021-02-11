@@ -8,6 +8,10 @@ h2 {
   color: rgb(255,124,164);
 }
 
+a:hover {
+  color: hotpink;
+}
+
 h3 {
   color: rgb(254,164,191);
 }
