@@ -1,6 +1,10 @@
-body .karasuno {
+body .karasuno{
 	background-color: black;
 	color: orange;
+}
+body.nekoma {
+	background-color: black;
+	color: red;
 }
 
 
