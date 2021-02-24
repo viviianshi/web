@@ -1,10 +1,77 @@
-body .karasuno{
+body.site {
+	background-color: #FEA4BF;
+	text-align: center;
+	font-family: helvetica;
+}
+#siteul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #FD5D8D;
+}
+li {
+	float: left;
+}
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+}
+#siteli a:hover {
+	background-color: #FF7CA4;
+}
+
+body.karasuno {
 	background-color: black;
 	color: orange;
+	font-family: helvetica;
 }
+#karasunoul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: orange;
+}
+#karasunoli a:hover {
+	background-color: #f48c06;
+}
+h3 {
+	color: white;
+}
+
 body.nekoma {
 	background-color: black;
 	color: red;
+	font-family: helvetica;
+}
+#nekomaul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: red;
+}
+#nekomali a:hover {
+	background-color: #9d0208;
+}
+
+body.aobajohsai {
+	background-color: white;
+	color: #20B2AA;
+	font-family: helvetica;
+}
+#aobajohsaiul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #20B2AA;
+}
+#aobajohsaili a:hover {
+	background-color: #38a3a5;
 }
 
 
