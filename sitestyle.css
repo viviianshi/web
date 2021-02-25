@@ -41,6 +41,17 @@ body.karasuno {
 h3 {
 	color: white;
 }
+#karasunotable {
+	width: 100%;
+	border-collapse: collapse;
+}	
+table, th {
+	border: 1px solid white;
+}
+#karasunomembers {
+	color: white;
+}
+
 
 body.nekoma {
 	background-color: black;
@@ -56,6 +67,13 @@ body.nekoma {
 }
 #nekomali a:hover {
 	background-color: #9d0208;
+}
+#nekomatable {
+	width: 100%;
+	border-collapse: collapse;
+}	
+#nekomamembers {
+	color: white;
 }
 
 body.aobajohsai {
@@ -73,5 +91,18 @@ body.aobajohsai {
 #aobajohsaili a:hover {
 	background-color: #38a3a5;
 }
-
+#aobajohsaih3 {
+	color: black;
+}
+#aobajohsaitable {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid #CDF4ED;
+}	
+#aobajohsaimembers {
+	color: #20B2AA;
+}
+#aobajohsaitable {
+	border: 1px solid #CDF4ED;
+}
 
